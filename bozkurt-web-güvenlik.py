@@ -25,7 +25,7 @@ elif veri =="2":
     os.system("nmap")
 
 elif veri =="3":
-    x =input("Sqlmap Toolu Otomatiktik Açılcaktır Enter'a Basınız")
+    x =input("Sqlmap Toolu Otomatik Açılcaktır Enter'a Basınız")
     os.system("sqlmap")
 
 elif veri =="4":

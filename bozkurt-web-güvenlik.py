@@ -18,7 +18,6 @@ veri = input("İşlem :")
 
 if veri =="1":
     x = input("Ddos Toolu otomatikten indirilecektir. Enter'a Basınız")
-    os.system("git clone https://github.com/B3zkurt/bozkurt-ddos")
     os.system("python ddos.py")
 
 elif veri =="2":

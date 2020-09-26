@@ -12,14 +12,13 @@ print()
 print("1.Ddos")
 print("2.Port Tarama")
 print("3.Sqlmap")
-print("4.Metasploit)
+print("4.Metasploit")
 
 veri = input("İşlem :")
 
 if veri =="1":
     x = input("Ddos Toolu otomatikten indirilecektir. Enter'a Basınız")
     os.system("git clone https://github.com/B3zkurt/bozkurt-ddos")
-    os.system("cd bozkurt-ddos")
     os.system("python ddos.py")
 
 elif veri =="2":

@@ -12,7 +12,7 @@ banner="""
 """
 print(banner)
 
-hedef_ip=input("hedef ip: ")
+hedef_ip=raw_input("hedef ip: ")
 hedef_port=input("hedef port: ")
 
 bytes=random._urandom(10000)

@@ -13,5 +13,4 @@ python3 bozkurt-siber-güvenlik.py
 
 İyi Kullanımlar.
 
-Forum: www.karasahintim.org
 İnstagram: wwww.instagram.com/b3zkurt/

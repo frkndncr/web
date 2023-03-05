@@ -4,7 +4,7 @@ os.system("clear")
 
 print("##############################")
 print("                              ")
-print("Bozkurt Web Uygulama Güvenliği")
+print("     Web Uygulama Güvenliği   ")
 print("                              ")
 print("##############################")
 print()

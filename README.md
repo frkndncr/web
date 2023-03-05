@@ -1,16 +1,13 @@
 Web uygulama güvenliği toolu
 
-
 Komutlar
 
-git clone https://github.com/B3zkurt/bozkurt-web
+git clone https://github.com/frkndncr/f3rkan-web
 
 cd bozkurt-web
 
 ls
 
-python3 bozkurt-siber-güvenlik.py
+python3 web.py
 
 İyi Kullanımlar.
-
-İnstagram: wwww.instagram.com/b3zkurt/

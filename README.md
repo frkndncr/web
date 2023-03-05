@@ -4,10 +4,10 @@ Komutlar
 
 git clone https://github.com/frkndncr/f3rkan-web
 
-cd bozkurt-web
+cd web
 
 ls
 
-python3 web.py
+python3 web-güvenlik.py
 
 İyi Kullanımlar.

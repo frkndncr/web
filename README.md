@@ -2,7 +2,7 @@ Web uygulama güvenliği toolu
 
 Komutlar
 
-git clone https://github.com/frkndncr/f3rkan-web
+git clone https://github.com/frkndncr/web
 
 cd web
 
